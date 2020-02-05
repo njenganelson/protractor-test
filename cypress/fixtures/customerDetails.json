@@ -4,5 +4,7 @@
     "postalCode":"00400",
     "currency": "Pound",
     "depositFunds": "3000000",
-    "amountToWithdraw": "2000000"
+    "amountToWithdraw": "2000000",
+    "startDate": date:date-time(),
+    "endDate": "date:date-time()"
 }

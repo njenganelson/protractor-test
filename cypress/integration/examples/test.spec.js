@@ -97,5 +97,18 @@ describe('Test XYZ bank Portal',function(){
         expect(cy.get('[ng-show="message"]',{timeout:10000})
             .contains("Transaction successful"))
     })
+    it('Show Transactions',function () {
+        cy.get('[ng-click="transactions()"]',{timeout:10000})
+            .contains('Transactions')
+            .click()
+        cy.wait(2000)
+        expect(cy.get('[ng-show="showDate"]').should("be.visible"))
+        //const date = Cypress.moment().format('yyyy-MM-dd')
+        cy.get('[ng-model="startDate"]')
+            .type(this.customerDetails.startDate)
+        cy.get('[ng-model="end"]')
+            .type(this.customerDetails.endDate)
+
+    })
 
 })

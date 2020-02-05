@@ -2,5 +2,7 @@
     "firstName":"Super",
     "lastName":"Man",
     "postalCode":"00400",
-    "currency": "Pound"
+    "currency": "Pound",
+    "depositFunds": "3000000",
+    "amountToWithdraw": "2000000"
 }

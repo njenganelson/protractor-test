@@ -91,24 +91,30 @@ describe('Test XYZ bank Portal',function(){
         cy.wait(2000)
         cy.get('[type="submit"]').click()
         //Confirm New balance
-        cy.get('[ng-hide="noAccount"]').eq(1)
+        cy.get('[ng-hide="noAccount"]',{timeout:10000}).eq(1)
             .should('contain','Account Number :')
             .should('contain','Balance : 1000000')
         expect(cy.get('[ng-show="message"]',{timeout:10000})
             .contains("Transaction successful"))
     })
     it('Show Transactions',function () {
-        cy.get('[ng-click="transactions()"]',{timeout:10000})
+        cy.get('[ng-click="transactions()"]', {timeout: 10000})
             .contains('Transactions')
             .click()
         cy.wait(2000)
         expect(cy.get('[ng-show="showDate"]').should("be.visible"))
-        //const date = Cypress.moment().format('yyyy-MM-dd')
+        //'yyyy-MM-ddThh:mm', for example '2017-06-01T08:30'
+        const date = Cypress.moment().format('yyyy-MM-ddThh:mm')
         cy.get('[ng-model="startDate"]')
-            .type(this.customerDetails.startDate)
+            .type(date)
         cy.get('[ng-model="end"]')
-            .type(this.customerDetails.endDate)
-
+            .type(date)
+        //Assert Table content
+        cy.get('.ng-binding',{timeout:10000})
+            .contains('3000000')
+            .contains('Credit')
+            .contains('2000000')
+            .contains('Debit')
     })
 
 })

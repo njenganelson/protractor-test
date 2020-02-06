@@ -1,5 +1,7 @@
 {
     "firstName":"Super",
     "secondName":"Man",
-    "postalCode": "00100"
+    "postalCode": "00100",
+    "amountToDeposit": "200000",
+    "amountToWithdraw": "300000"
 }

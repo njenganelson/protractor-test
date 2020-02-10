@@ -16,6 +16,7 @@ describe('Open Browser', function() {
     });
     it('Login to Bank Manager Module',function(){
       expect(browser.getTitle()).toEqual('Protractor practice website - Banking App');
+      
       expect(element(by.buttonText('Home')).isPresent())
       expect(element(by.buttonText('Customer Login')).isPresent())
       expect(element(by.buttonText('Bank Manager Login')).isPresent())

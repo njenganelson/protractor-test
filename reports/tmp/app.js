@@ -274,213 +274,220 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
         "description": "Navigate to XYZ Bank|Open Browser",
         "passed": true,
         "pending": false,
-        "os": "windows",
-        "sessionId": "98728322-e25e-44b9-9970-877a154e6007",
-        "instanceId": 24040,
+        "os": "WINDOWS",
+        "sessionId": "39a8ab3e169044b1110e4b33921e6dde0814e89a",
+        "instanceId": 26416,
         "browser": {
-            "name": "firefox",
-            "version": "73.0"
+            "name": "chrome",
+            "version": "80.0.3987.16"
         },
         "message": "Passed",
         "browserLogs": [],
-        "screenShotFile": "0009007a-0011-00f4-00a1-00b2006c00b8.png",
-        "timestamp": 1581000175609,
-        "duration": 7123
+        "screenShotFile": "00420020-00cb-0023-0014-009200a400fe.png",
+        "timestamp": 1581339146390,
+        "duration": 7164
     },
     {
         "description": "Login to Bank Manager Module|Open Browser",
         "passed": true,
         "pending": false,
-        "os": "windows",
-        "sessionId": "98728322-e25e-44b9-9970-877a154e6007",
-        "instanceId": 24040,
+        "os": "WINDOWS",
+        "sessionId": "39a8ab3e169044b1110e4b33921e6dde0814e89a",
+        "instanceId": 26416,
         "browser": {
-            "name": "firefox",
-            "version": "73.0"
+            "name": "chrome",
+            "version": "80.0.3987.16"
         },
         "message": "Passed.",
         "trace": "",
         "browserLogs": [],
-        "screenShotFile": "00e3003b-00f7-0099-003e-0020001800f3.png",
-        "timestamp": 1581000182790,
-        "duration": 926
+        "screenShotFile": "008300c6-00ba-00fb-00f5-0060008100e0.png",
+        "timestamp": 1581339154898,
+        "duration": 8576
     },
     {
         "description": "Add Customer|Open Browser",
         "passed": true,
         "pending": false,
-        "os": "windows",
-        "sessionId": "98728322-e25e-44b9-9970-877a154e6007",
-        "instanceId": 24040,
+        "os": "WINDOWS",
+        "sessionId": "39a8ab3e169044b1110e4b33921e6dde0814e89a",
+        "instanceId": 26416,
         "browser": {
-            "name": "firefox",
-            "version": "73.0"
+            "name": "chrome",
+            "version": "80.0.3987.16"
         },
         "message": "Passed.",
         "trace": "",
         "browserLogs": [],
-        "screenShotFile": "00ca005c-00b8-009c-0090-003900cd0091.png",
-        "timestamp": 1581000183776,
-        "duration": 3027
+        "screenShotFile": "00190004-007c-007b-0009-0064007e0024.png",
+        "timestamp": 1581339164946,
+        "duration": 12883
     },
     {
         "description": "Open Account|Open Browser",
         "passed": true,
         "pending": false,
-        "os": "windows",
-        "sessionId": "98728322-e25e-44b9-9970-877a154e6007",
-        "instanceId": 24040,
+        "os": "WINDOWS",
+        "sessionId": "39a8ab3e169044b1110e4b33921e6dde0814e89a",
+        "instanceId": 26416,
         "browser": {
-            "name": "firefox",
-            "version": "73.0"
+            "name": "chrome",
+            "version": "80.0.3987.16"
         },
         "message": "Passed.",
         "trace": "",
         "browserLogs": [],
-        "screenShotFile": "005d00ca-003b-0045-00bd-008000bb00bb.png",
-        "timestamp": 1581000186870,
-        "duration": 5796
+        "screenShotFile": "000d0044-0047-00b8-0009-00c900b700cc.png",
+        "timestamp": 1581339179418,
+        "duration": 19176
     },
     {
         "description": "Navigate to Customer Login|Open Browser",
         "passed": true,
         "pending": false,
-        "os": "windows",
-        "sessionId": "98728322-e25e-44b9-9970-877a154e6007",
-        "instanceId": 24040,
+        "os": "WINDOWS",
+        "sessionId": "39a8ab3e169044b1110e4b33921e6dde0814e89a",
+        "instanceId": 26416,
         "browser": {
-            "name": "firefox",
-            "version": "73.0"
+            "name": "chrome",
+            "version": "80.0.3987.16"
         },
         "message": "Passed",
         "browserLogs": [],
-        "screenShotFile": "0067007b-00dc-00e8-0082-009400bc0047.png",
-        "timestamp": 1581000192743,
-        "duration": 326
+        "screenShotFile": "00e8006d-00a5-0049-00a9-000e0028007e.png",
+        "timestamp": 1581339200285,
+        "duration": 7732
     },
     {
         "description": "Select Customer|Open Browser",
         "passed": true,
         "pending": false,
-        "os": "windows",
-        "sessionId": "98728322-e25e-44b9-9970-877a154e6007",
-        "instanceId": 24040,
+        "os": "WINDOWS",
+        "sessionId": "39a8ab3e169044b1110e4b33921e6dde0814e89a",
+        "instanceId": 26416,
         "browser": {
-            "name": "firefox",
-            "version": "73.0"
+            "name": "chrome",
+            "version": "80.0.3987.16"
         },
         "message": "Passed",
         "browserLogs": [],
-        "screenShotFile": "00370091-0021-00e2-00d3-0054008000ca.png",
-        "timestamp": 1581000193136,
-        "duration": 3115
+        "screenShotFile": "00090036-0027-0017-00c3-0050000a00a7.png",
+        "timestamp": 1581339209760,
+        "duration": 6969
     },
     {
         "description": "Verify Customer has logged in Successfully|Open Browser",
         "passed": true,
         "pending": false,
-        "os": "windows",
-        "sessionId": "98728322-e25e-44b9-9970-877a154e6007",
-        "instanceId": 24040,
+        "os": "WINDOWS",
+        "sessionId": "39a8ab3e169044b1110e4b33921e6dde0814e89a",
+        "instanceId": 26416,
         "browser": {
-            "name": "firefox",
-            "version": "73.0"
+            "name": "chrome",
+            "version": "80.0.3987.16"
         },
         "message": "Passed",
         "browserLogs": [],
-        "screenShotFile": "00c900af-0001-00dd-00d7-00fd005c00c4.png",
-        "timestamp": 1581000196344,
-        "duration": 2002
+        "screenShotFile": "00f300df-0092-000f-0095-001300690072.png",
+        "timestamp": 1581339218418,
+        "duration": 2003
     },
     {
         "description": "Confirm Intial Balance|Open Browser",
         "passed": true,
         "pending": false,
-        "os": "windows",
-        "sessionId": "98728322-e25e-44b9-9970-877a154e6007",
-        "instanceId": 24040,
+        "os": "WINDOWS",
+        "sessionId": "39a8ab3e169044b1110e4b33921e6dde0814e89a",
+        "instanceId": 26416,
         "browser": {
-            "name": "firefox",
-            "version": "73.0"
+            "name": "chrome",
+            "version": "80.0.3987.16"
         },
         "message": "Passed.",
         "trace": "",
         "browserLogs": [],
-        "screenShotFile": "00de0035-00c7-0099-0019-0070005400b6.png",
-        "timestamp": 1581000198424,
-        "duration": 62
+        "screenShotFile": "00130058-00a2-00be-0062-007f009d0023.png",
+        "timestamp": 1581339221600,
+        "duration": 2729
     },
     {
         "description": "Deposit funds|Open Browser",
         "passed": true,
         "pending": false,
-        "os": "windows",
-        "sessionId": "98728322-e25e-44b9-9970-877a154e6007",
-        "instanceId": 24040,
+        "os": "WINDOWS",
+        "sessionId": "39a8ab3e169044b1110e4b33921e6dde0814e89a",
+        "instanceId": 26416,
         "browser": {
-            "name": "firefox",
-            "version": "73.0"
+            "name": "chrome",
+            "version": "80.0.3987.16"
         },
         "message": "Passed.",
         "trace": "",
         "browserLogs": [],
-        "screenShotFile": "001100fb-00b4-0028-0043-00b2006a00ed.png",
-        "timestamp": 1581000198550,
-        "duration": 1405
+        "screenShotFile": "0022004d-009e-00e6-009c-008300370049.png",
+        "timestamp": 1581339226080,
+        "duration": 8144
     },
     {
         "description": "Confirm Balance after Deposit|Open Browser",
         "passed": true,
         "pending": false,
-        "os": "windows",
-        "sessionId": "98728322-e25e-44b9-9970-877a154e6007",
-        "instanceId": 24040,
+        "os": "WINDOWS",
+        "sessionId": "39a8ab3e169044b1110e4b33921e6dde0814e89a",
+        "instanceId": 26416,
         "browser": {
-            "name": "firefox",
-            "version": "73.0"
+            "name": "chrome",
+            "version": "80.0.3987.16"
         },
         "message": "Passed.",
         "trace": "",
         "browserLogs": [],
-        "screenShotFile": "009200da-0045-00d8-006e-00f20041006b.png",
-        "timestamp": 1581000200034,
-        "duration": 45
+        "screenShotFile": "008100f7-00db-00e0-0069-0000001e0072.png",
+        "timestamp": 1581339236102,
+        "duration": 3346
     },
     {
         "description": "Withdraw funds|Open Browser",
         "passed": true,
         "pending": false,
-        "os": "windows",
-        "sessionId": "98728322-e25e-44b9-9970-877a154e6007",
-        "instanceId": 24040,
+        "os": "WINDOWS",
+        "sessionId": "39a8ab3e169044b1110e4b33921e6dde0814e89a",
+        "instanceId": 26416,
         "browser": {
-            "name": "firefox",
-            "version": "73.0"
+            "name": "chrome",
+            "version": "80.0.3987.16"
         },
         "message": "Passed.",
         "trace": "",
-        "browserLogs": [],
-        "screenShotFile": "000900b5-00cb-0086-0065-000f00a400c3.png",
-        "timestamp": 1581000200150,
-        "duration": 965
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "http://www.way2automation.com/angularjs-protractor/banking/account.service.js 33:18 \"Can not perform this transaction\"",
+                "timestamp": 1581339249619,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "000000b2-00fa-00ff-0089-00b50088005b.png",
+        "timestamp": 1581339240779,
+        "duration": 13306
     },
     {
         "description": "Succesful withdrawal|Open Browser",
         "passed": true,
         "pending": false,
-        "os": "windows",
-        "sessionId": "98728322-e25e-44b9-9970-877a154e6007",
-        "instanceId": 24040,
+        "os": "WINDOWS",
+        "sessionId": "39a8ab3e169044b1110e4b33921e6dde0814e89a",
+        "instanceId": 26416,
         "browser": {
-            "name": "firefox",
-            "version": "73.0"
+            "name": "chrome",
+            "version": "80.0.3987.16"
         },
         "message": "Passed.",
         "trace": "",
         "browserLogs": [],
-        "screenShotFile": "008600ad-006e-00ea-008c-002800120018.png",
-        "timestamp": 1581000201204,
-        "duration": 2576
+        "screenShotFile": "0003000d-00ef-0055-007c-001a00ec0000.png",
+        "timestamp": 1581339256127,
+        "duration": 17059
     }
 ];
 

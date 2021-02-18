@@ -275,25 +275,25 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
         "passed": true,
         "pending": false,
         "os": "WINDOWS",
-        "sessionId": "39a8ab3e169044b1110e4b33921e6dde0814e89a",
-        "instanceId": 26416,
+        "sessionId": "9be2bdeeef537663d4444f2296314e1b782f913e",
+        "instanceId": 1396,
         "browser": {
             "name": "chrome",
             "version": "80.0.3987.16"
         },
         "message": "Passed",
         "browserLogs": [],
-        "screenShotFile": "00420020-00cb-0023-0014-009200a400fe.png",
-        "timestamp": 1581339146390,
-        "duration": 7164
+        "screenShotFile": "00a30046-00b0-0031-00a5-00f100390055.png",
+        "timestamp": 1581345184340,
+        "duration": 14185
     },
     {
         "description": "Login to Bank Manager Module|Open Browser",
         "passed": true,
         "pending": false,
         "os": "WINDOWS",
-        "sessionId": "39a8ab3e169044b1110e4b33921e6dde0814e89a",
-        "instanceId": 26416,
+        "sessionId": "9be2bdeeef537663d4444f2296314e1b782f913e",
+        "instanceId": 1396,
         "browser": {
             "name": "chrome",
             "version": "80.0.3987.16"
@@ -301,17 +301,17 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
         "message": "Passed.",
         "trace": "",
         "browserLogs": [],
-        "screenShotFile": "008300c6-00ba-00fb-00f5-0060008100e0.png",
-        "timestamp": 1581339154898,
-        "duration": 8576
+        "screenShotFile": "00b100fd-002e-00d3-00ed-00e1006c0093.png",
+        "timestamp": 1581345200675,
+        "duration": 11023
     },
     {
         "description": "Add Customer|Open Browser",
         "passed": true,
         "pending": false,
         "os": "WINDOWS",
-        "sessionId": "39a8ab3e169044b1110e4b33921e6dde0814e89a",
-        "instanceId": 26416,
+        "sessionId": "9be2bdeeef537663d4444f2296314e1b782f913e",
+        "instanceId": 1396,
         "browser": {
             "name": "chrome",
             "version": "80.0.3987.16"
@@ -319,17 +319,17 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
         "message": "Passed.",
         "trace": "",
         "browserLogs": [],
-        "screenShotFile": "00190004-007c-007b-0009-0064007e0024.png",
-        "timestamp": 1581339164946,
-        "duration": 12883
+        "screenShotFile": "00b20072-007c-0048-006a-008f002100fe.png",
+        "timestamp": 1581345212975,
+        "duration": 15430
     },
     {
         "description": "Open Account|Open Browser",
         "passed": true,
         "pending": false,
         "os": "WINDOWS",
-        "sessionId": "39a8ab3e169044b1110e4b33921e6dde0814e89a",
-        "instanceId": 26416,
+        "sessionId": "9be2bdeeef537663d4444f2296314e1b782f913e",
+        "instanceId": 1396,
         "browser": {
             "name": "chrome",
             "version": "80.0.3987.16"
@@ -337,68 +337,68 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
         "message": "Passed.",
         "trace": "",
         "browserLogs": [],
-        "screenShotFile": "000d0044-0047-00b8-0009-00c900b700cc.png",
-        "timestamp": 1581339179418,
-        "duration": 19176
+        "screenShotFile": "006d00c2-00ba-00bb-0000-006a00ae001b.png",
+        "timestamp": 1581345229839,
+        "duration": 20854
     },
     {
         "description": "Navigate to Customer Login|Open Browser",
         "passed": true,
         "pending": false,
         "os": "WINDOWS",
-        "sessionId": "39a8ab3e169044b1110e4b33921e6dde0814e89a",
-        "instanceId": 26416,
+        "sessionId": "9be2bdeeef537663d4444f2296314e1b782f913e",
+        "instanceId": 1396,
         "browser": {
             "name": "chrome",
             "version": "80.0.3987.16"
         },
         "message": "Passed",
         "browserLogs": [],
-        "screenShotFile": "00e8006d-00a5-0049-00a9-000e0028007e.png",
-        "timestamp": 1581339200285,
-        "duration": 7732
+        "screenShotFile": "004e0053-0020-0087-0019-00d7002a0081.png",
+        "timestamp": 1581345253281,
+        "duration": 12642
     },
     {
         "description": "Select Customer|Open Browser",
         "passed": true,
         "pending": false,
         "os": "WINDOWS",
-        "sessionId": "39a8ab3e169044b1110e4b33921e6dde0814e89a",
-        "instanceId": 26416,
+        "sessionId": "9be2bdeeef537663d4444f2296314e1b782f913e",
+        "instanceId": 1396,
         "browser": {
             "name": "chrome",
             "version": "80.0.3987.16"
         },
         "message": "Passed",
         "browserLogs": [],
-        "screenShotFile": "00090036-0027-0017-00c3-0050000a00a7.png",
-        "timestamp": 1581339209760,
-        "duration": 6969
+        "screenShotFile": "003700e3-00ff-0010-0041-0028009400a0.png",
+        "timestamp": 1581345267601,
+        "duration": 6313
     },
     {
         "description": "Verify Customer has logged in Successfully|Open Browser",
         "passed": true,
         "pending": false,
         "os": "WINDOWS",
-        "sessionId": "39a8ab3e169044b1110e4b33921e6dde0814e89a",
-        "instanceId": 26416,
+        "sessionId": "9be2bdeeef537663d4444f2296314e1b782f913e",
+        "instanceId": 1396,
         "browser": {
             "name": "chrome",
             "version": "80.0.3987.16"
         },
         "message": "Passed",
         "browserLogs": [],
-        "screenShotFile": "00f300df-0092-000f-0095-001300690072.png",
-        "timestamp": 1581339218418,
-        "duration": 2003
+        "screenShotFile": "0064007f-0027-0011-0014-00f3001e0019.png",
+        "timestamp": 1581345279224,
+        "duration": 2002
     },
     {
         "description": "Confirm Intial Balance|Open Browser",
         "passed": true,
         "pending": false,
         "os": "WINDOWS",
-        "sessionId": "39a8ab3e169044b1110e4b33921e6dde0814e89a",
-        "instanceId": 26416,
+        "sessionId": "9be2bdeeef537663d4444f2296314e1b782f913e",
+        "instanceId": 1396,
         "browser": {
             "name": "chrome",
             "version": "80.0.3987.16"
@@ -406,17 +406,17 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
         "message": "Passed.",
         "trace": "",
         "browserLogs": [],
-        "screenShotFile": "00130058-00a2-00be-0062-007f009d0023.png",
-        "timestamp": 1581339221600,
-        "duration": 2729
+        "screenShotFile": "00000078-00b2-0057-0052-00d400fa009d.png",
+        "timestamp": 1581345282414,
+        "duration": 4971
     },
     {
         "description": "Deposit funds|Open Browser",
         "passed": true,
         "pending": false,
         "os": "WINDOWS",
-        "sessionId": "39a8ab3e169044b1110e4b33921e6dde0814e89a",
-        "instanceId": 26416,
+        "sessionId": "9be2bdeeef537663d4444f2296314e1b782f913e",
+        "instanceId": 1396,
         "browser": {
             "name": "chrome",
             "version": "80.0.3987.16"
@@ -424,17 +424,17 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
         "message": "Passed.",
         "trace": "",
         "browserLogs": [],
-        "screenShotFile": "0022004d-009e-00e6-009c-008300370049.png",
-        "timestamp": 1581339226080,
-        "duration": 8144
+        "screenShotFile": "00e20012-0078-006d-00cf-001c00130049.png",
+        "timestamp": 1581345289089,
+        "duration": 8940
     },
     {
         "description": "Confirm Balance after Deposit|Open Browser",
         "passed": true,
         "pending": false,
         "os": "WINDOWS",
-        "sessionId": "39a8ab3e169044b1110e4b33921e6dde0814e89a",
-        "instanceId": 26416,
+        "sessionId": "9be2bdeeef537663d4444f2296314e1b782f913e",
+        "instanceId": 1396,
         "browser": {
             "name": "chrome",
             "version": "80.0.3987.16"
@@ -442,17 +442,17 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
         "message": "Passed.",
         "trace": "",
         "browserLogs": [],
-        "screenShotFile": "008100f7-00db-00e0-0069-0000001e0072.png",
-        "timestamp": 1581339236102,
-        "duration": 3346
+        "screenShotFile": "00030075-009c-004f-000e-00240095005c.png",
+        "timestamp": 1581345300251,
+        "duration": 3571
     },
     {
         "description": "Withdraw funds|Open Browser",
         "passed": true,
         "pending": false,
         "os": "WINDOWS",
-        "sessionId": "39a8ab3e169044b1110e4b33921e6dde0814e89a",
-        "instanceId": 26416,
+        "sessionId": "9be2bdeeef537663d4444f2296314e1b782f913e",
+        "instanceId": 1396,
         "browser": {
             "name": "chrome",
             "version": "80.0.3987.16"
@@ -463,21 +463,21 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
             {
                 "level": "SEVERE",
                 "message": "http://www.way2automation.com/angularjs-protractor/banking/account.service.js 33:18 \"Can not perform this transaction\"",
-                "timestamp": 1581339249619,
+                "timestamp": 1581345311386,
                 "type": ""
             }
         ],
-        "screenShotFile": "000000b2-00fa-00ff-0089-00b50088005b.png",
-        "timestamp": 1581339240779,
-        "duration": 13306
+        "screenShotFile": "0075002e-00ce-0087-001d-005200e50022.png",
+        "timestamp": 1581345305825,
+        "duration": 10930
     },
     {
         "description": "Succesful withdrawal|Open Browser",
         "passed": true,
         "pending": false,
         "os": "WINDOWS",
-        "sessionId": "39a8ab3e169044b1110e4b33921e6dde0814e89a",
-        "instanceId": 26416,
+        "sessionId": "9be2bdeeef537663d4444f2296314e1b782f913e",
+        "instanceId": 1396,
         "browser": {
             "name": "chrome",
             "version": "80.0.3987.16"
@@ -485,9 +485,9 @@ app.controller('ScreenshotReportController', ['$scope', '$http', 'TitleService',
         "message": "Passed.",
         "trace": "",
         "browserLogs": [],
-        "screenShotFile": "0003000d-00ef-0055-007c-001a00ec0000.png",
-        "timestamp": 1581339256127,
-        "duration": 17059
+        "screenShotFile": "00d500c8-00cc-009d-00c2-00c400f4009d.png",
+        "timestamp": 1581345318212,
+        "duration": 8723
     }
 ];
 
